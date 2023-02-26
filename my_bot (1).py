@@ -9,7 +9,7 @@ import random_function
 
 name = ''
 
-bot = telebot.TeleBot('1701026697:AAHyfgKdQnU0eV-q7rdxuGeiXkrGAw8kliI')
+bot = telebot.TeleBot('тут должен быть токен')
 
 
 @bot.message_handler(commands=['start', 'help'])
